@@ -59,6 +59,19 @@ O **Alugar** é um sistema de aluguel de quadras esportivas, voltado inicialment
 
 ## 7. Evidências do problema
 
-Resultados da pesquisa com usuários (formulário sobre reservas, disponibilidade e recursos importantes) serão registrados aqui, sem identificar participantes.
+Pesquisa com **17 estudantes do IFPR** (questionário de 15 perguntas, aplicado em 31/08/2026).
 
-*Ainda não coletados.*
+| Indicador | Resultado |
+|---|---|
+| Usam quadras ao menos "às vezes" | 12 de 17 (71%) |
+| Têm dificuldade ao reservar ao menos "às vezes" | 11 de 17 (65%) |
+| Consideram muito ou extremamente importante ver horários em um único sistema | 15 de 17 (88%) |
+| Funcionalidade mais votada: ver horários disponíveis | 14 de 17 (82%) |
+| Dos que fazem reservas, usam WhatsApp | 6 de 7 |
+| Método de pagamento online preferido: PIX | 16 de 17 (94%) |
+
+**Principais dificuldades citadas:** falta de organização (8), conflito de horários (5), dificuldade para realizar a reserva (5) e falta de informações sobre horários (3).
+
+**Limitações:** amostra pequena e composta por estudantes do IFPR; 10 dos 17 não fazem reservas atualmente e 9 usam principalmente quadras públicas; a pesquisa não mediu disposição de pagar nem ouviu administradores de condomínios ou donos de quadras. Os resultados indicam uma tendência, não representam o mercado.
+
+**Próximos passos:** entrevistar síndicos e administradores, ampliar a pesquisa para público fora do IFPR e testar o protótipo com usuários.
