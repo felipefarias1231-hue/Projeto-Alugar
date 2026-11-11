@@ -35,6 +35,7 @@ O **Alugar** propõe uma solução digital para organizar informações de quadr
 |---|---|
 | [Requisitos](docs/requisitos.md) | Escopo, requisitos funcionais e não funcionais, histórias de usuário |
 | [Arquitetura e dados](docs/arquitetura.md) | Arquitetura, modelo de dados e regras de negócio |
+| [Protótipo mobile](docs/prototipo.md) | Acesso, fluxo e telas do protótipo |
 
 ## Tecnologias
 
@@ -57,7 +58,8 @@ Back-end e banco de dados ainda serão definidos.
 │   └── imagens/
 ├── docs/
 │   ├── requisitos.md
-│   └── arquitetura.md
+│   ├── arquitetura.md
+│   └── prototipo.md
 ├── README.md
 └── LICENSE
 ```
