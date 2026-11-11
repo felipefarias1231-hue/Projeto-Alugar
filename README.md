@@ -35,13 +35,12 @@ O **Alugar** propõe uma solução digital para organizar informações de quadr
 |---|---|
 | [Requisitos](docs/requisitos.md) | Escopo, requisitos funcionais e não funcionais, histórias de usuário |
 | [Arquitetura e dados](docs/arquitetura.md) | Arquitetura, modelo de dados e regras de negócio |
-| [Instalação](docs/instalacao.md) | Como visualizar e, futuramente, executar o sistema |
 
 ## Tecnologias
 
 | Tecnologia | Finalidade |
 |---|---|
-| HTML, CSS e JavaScript | Página do projeto e simulação de reservas |
+| HTML e CSS | Estrutura e apresentação da página do projeto |
 | Lovable | Criação do protótipo mobile |
 | Git e GitHub | Versionamento do código |
 | GitHub Pages | Publicação da página do projeto |
@@ -54,11 +53,11 @@ Back-end e banco de dados ainda serão definidos.
 ├── index.html          # página do projeto (GitHub Pages)
 ├── assets/
 │   ├── css/style.css
-│   └── js/main.js
+│   ├── js/
+│   └── imagens/
 ├── docs/
 │   ├── requisitos.md
-│   ├── arquitetura.md
-│   └── instalacao.md
+│   └── arquitetura.md
 ├── README.md
 └── LICENSE
 ```
