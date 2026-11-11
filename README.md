@@ -54,8 +54,7 @@ Back-end e banco de dados ainda serão definidos.
 ├── index.html          # página do projeto (GitHub Pages)
 ├── assets/
 │   ├── css/style.css
-│   ├── js/main.js
-│   └── imagens/
+│   └── js/main.js
 ├── docs/
 │   ├── requisitos.md
 │   ├── arquitetura.md
